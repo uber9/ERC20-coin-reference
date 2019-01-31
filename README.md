@@ -22,7 +22,6 @@ If your project utilizes ERC20 tokens and requires any of the below listed data 
 - ChainLink
 - Populous
 - TrueUSD
-- Tether
 - Golem
 - Augur
 - USDCoin
