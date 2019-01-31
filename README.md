@@ -2,7 +2,7 @@
 
 Lists ERC20 compliant token smart contracts along with essential meta data for each coin such and contract address, coin name, coin symbol and a link to coin icon on IPFS.
 
-## Provided data for ERC20 coin
+## Available data for ERC20 coins
 
 If your project utilizes ERC20 tokens and requires any of the below listed data for a given token than it's for you:
 
@@ -31,7 +31,7 @@ If your project utilizes ERC20 tokens and requires any of the below listed data 
 - Decentraland
 - Mithril
 - Kucoin
-- Digix
+- DigixLICENSE.md
 - Kyber network
 - Loom Network
 - Zilliqa
@@ -53,8 +53,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/horizontalsystems/ERC20-coin-reference/blob/master/LICENSE) file for details
 
 ## Special Thanks
 
-Source of ERC20 icons: https://github.com/atomiclabs/cryptocurrency-icons
+Source of ERC20 icons: [cryptocurrency-icons](https://github.com/atomiclabs/cryptocurrency-icons)
