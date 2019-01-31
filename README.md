@@ -47,13 +47,15 @@ If your project utilizes ERC20 tokens and requires any of the below listed data 
 - Bancor
 - Kucoin Shares 
 
-## Contributing
+## To Contribute
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details and the process for submitting pull requests.
+1. 
+2. 
+3.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/horizontalsystems/ERC20-coin-reference/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/horizontalsystems/ERC20-coin-reference/blob/master/LICENSE) file for details.
 
 ## Special Thanks
 
