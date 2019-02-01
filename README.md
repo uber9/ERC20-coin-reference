@@ -49,9 +49,9 @@ If your project utilizes ERC20 tokens and requires any of the below listed data 
 
 ## To Contribute
 
-1. 
-2. 
-3.
+1. Checkout repository
+2. Add the ERC 20 contracts to the ERC20.json
+3. Send pull request
 
 ## License
 
