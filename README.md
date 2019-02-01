@@ -31,7 +31,7 @@ If your project utilizes ERC20 tokens and requires any of the below listed data 
 - Decentraland
 - Mithril
 - Kucoin
-- DigixLICENSE.md
+- Digix
 - Kyber network
 - Loom Network
 - Zilliqa
