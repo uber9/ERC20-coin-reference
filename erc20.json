@@ -1,7 +1,7 @@
 [
   {
     "code": "BNB",
-    "name": "BNB",
+    "name": "Binance Coin",
     "contract": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "code": "ZRX",
-    "name": "ZRX",
+    "name": "0x",
     "contract": "0xe41d2489571d322189246dafa5ebde1f4699f498"
   },
   {
     "code": "NPXS",
-    "name": "Pundi X Token",
+    "name": "Pundi X",
     "contract": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3"
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "code": "MITH",
-    "name": "Mithril Token",
+    "name": "Mithril",
     "contract": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb"
   },
   {
     "code": "DGX",
-    "name": "Digix Gold Token",
+    "name": "Digix Gold",
     "contract": "0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf"
   },
   {
     "code": "KNC",
-    "name": "KyberNetwork",
+    "name": "Kyber Network",
     "contract": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200"
   },
   {
@@ -106,7 +106,7 @@
   },
   {
     "code": "HT",
-    "name": "HuobiToken",
+    "name": "Huobi Token",
     "contract": "0x6f259637dcd74c767781e37bc6133cd6a68aa161"
   },
   {
@@ -116,7 +116,7 @@
   },
   {
     "code": "EURS",
-    "name": "STASIS EURS Token",
+    "name": "STASIS EURS",
     "contract": "0xdb25f211ab05b1c97d595516f45794528a807ad8"
   },
   {
